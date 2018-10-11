@@ -4,4 +4,6 @@
 | New paragraph | A blank line starts a new paragraph |
 | Source code block |  // all on one line<br> {{{ if (foo) bar else   baz }}} |
 | code block | `my enter` |
-| another code block | ``` <br> line 1 <br> line 2 ``` |
+| another code block | ``` 
+<br> line 1 <br> line 2 
+``` |
